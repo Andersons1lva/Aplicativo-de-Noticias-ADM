@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">App de Noticias Adm</string>
+
+    <string name="title_principal">Escreva uma Notícia</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_noticia">Escreva sua Notícia</string>
+    <string name="hint_data">Data de Publicação</string>
+    <string name="hint_autor">Autor</string>
+    <string name="text_btn_publicar_noticia">Publicar Notícia</string>
+
 </resources>
